@@ -173,7 +173,7 @@
 </section>
 
 <section class="menu-section">
-    <h2>Makanan  TESS DULU YAAAAAA</h2>
+    <h2>Makanan  TESS DULU YAAAAAA wahahahah</h2>
 
     <div class="menu-grid">
         <div class="menu-card">
